@@ -4,8 +4,8 @@
 1. 权限
 
 在使用前需要添加相应的权限:
-><uses-permission android:name="android.permission.CAMERA" />
-<uses-permission android:name="android.permission.FLASHLIGHT" />
+> <uses-permission android:name="android.permission.CAMERA" />
+> <uses-permission android:name="android.permission.FLASHLIGHT" />
 <uses-permission android:name="android.permission.CAMERA" />
 
 <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
